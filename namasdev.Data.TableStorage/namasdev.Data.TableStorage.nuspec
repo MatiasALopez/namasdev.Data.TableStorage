@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>namasdev.Data.TableStorage</id>
+    <version>1.0.0</version>
+    <title>namasdev Data.TableStorage</title>
+    <authors>Matias Alberto Lopez</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <projectUrl>https://github.com/MatiasALopez/namasdev.Data.TableStorage</projectUrl>
+    <description>namasdev TableStorage Data library</description>
+    <releaseNotes></releaseNotes>
+    <copyright>2024</copyright>
+    <tags>namasdev</tags>
+    <dependencies>
+      <dependency id="namasdev.Core" version="1.0.1" />
+      <dependency id="WindowsAzure.Storage" version="9.3.3" />
+    </dependencies>
+  </metadata>
+</package>
