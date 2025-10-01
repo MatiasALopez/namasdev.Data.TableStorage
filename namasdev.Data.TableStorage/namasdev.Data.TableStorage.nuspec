@@ -14,7 +14,6 @@
     <copyright>2024</copyright>
     <tags>namasdev</tags>
     <dependencies>
-      <dependency id="namasdev.Core" version="1.0.1" />
       <dependency id="WindowsAzure.Storage" version="9.3.3" />
     </dependencies>
   </metadata>
